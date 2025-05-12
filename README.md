@@ -20,11 +20,11 @@ CoRL Workshop on Language and Robot Learning, 2024. <span style="color:#CC3333">
 ![teaser](https://kalm-il.github.io/static/images/framework.jpeg)
 
 ```
-@article{fang2024kalm,
-  title={Keypoint Abstraction using Large Models for Object-Relative Imitation Learning},
-  author={Xiaolin Fang and Bo-Ruei Huang and Jiayuan Mao and Jasmine Shone and Joshua B. Tenenbaum and Tomás Lozano-Pérez and Leslie Pack Kaelbling},
-  journal={arXiv:2410.23254},
-  year={2024}
+@inproceedings{fang2025kalm,
+  title={{KALM: Keypoint Abstraction using Large Models for Object-Relative Imitation Learning}},
+  author={Xiaolin Fang* and Bo-Ruei Huang* and Jiayuan Mao* and Jasmine Shone and Joshua B. Tenenbaum and Tomás Lozano-Pérez and Leslie Pack Kaelbling},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2025}
 }
 ```
 
